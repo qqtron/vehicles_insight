@@ -132,4 +132,6 @@ dmypy.json
 .vagrant
 Vagrantfile
 provision.sh
+
+# DS_Store
 .DS_Store
